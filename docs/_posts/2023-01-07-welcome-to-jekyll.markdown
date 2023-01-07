@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Gingerwords!"
 date:   2023-01-07 14:55:00 +0000
 categories: jekyll update
 ---
