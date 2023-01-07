@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="677.87756"
+   height="463.34695"
+   viewBox="0 0 677.87756 463.34695"
+   sodipodi:docname="logo-inkscapecopy.png.svg"
+   inkscape:export-filename="/home/edward/Dropbox/Marianne Gingerwords/image22351.png"
+   inkscape:export-xdpi="271.38"
+   inkscape:export-ydpi="271.38"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter26100"
+       x="-0.0061307563"
+       y="-0.061948742"
+       width="1.014816"
+       height="1.1473629">
+      <feFlood
+         flood-opacity="0.823529"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood26090" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite26092" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.1"
+         result="blur"
+         id="feGaussianBlur26094" />
+      <feOffset
+         dx="1.1"
+         dy="1"
+         result="offset"
+         id="feOffset26096" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite26098" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter102754"
+       x="0"
+       y="0"
+       width="1.0146587"
+       height="1.1645286">
+      <feFlood
+         flood-opacity="0.176471"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood102744" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite102746" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur102748" />
+      <feOffset
+         dx="0.7"
+         dy="0.7"
+         result="offset"
+         id="feOffset102750" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite102752" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix102774" />
+      <feFlood
+         id="feFlood102776"
+         flood-opacity="0.176471"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite102778"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur102780"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset102782"
+         dx="0.7"
+         dy="0.7"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite102784"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.1945101"
+     inkscape:cx="282.97888"
+     inkscape:cy="241.28393"
+     inkscape:window-width="1850"
+     inkscape:window-height="1136"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <text
+       xml:space="preserve"
+       style="font-size:56.3443px;line-height:1.25;font-family:KacstPen;-inkscape-font-specification:KacstPen;fill:#b83cad;fill-opacity:1;stroke-width:0.58692;filter:url(#filter26100)"
+       x="-90.511208"
+       y="-57.023449"
+       id="text2303"
+       transform="matrix(0.45691082,0,0,0.45691082,294.38508,344.33515)"><tspan
+         sodipodi:role="line"
+         id="tspan2301"
+         x="-90.511208"
+         y="-57.023449"
+         style="font-size:56.3443px;fill:#b83cad;fill-opacity:1;stroke-width:0.58692">GINGERWORDS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.9948px;line-height:1.25;font-family:KacstPen;-inkscape-font-specification:KacstPen;fill:#b83cad;fill-opacity:1;stroke-width:0.27487;filter:url(#filter102754)"
+       x="304.31924"
+       y="334.07339"
+       id="text28550"><tspan
+         sodipodi:role="line"
+         id="tspan28548"
+         x="304.31924"
+         y="334.07339"
+         style="stroke-width:0.27487">make words work</tspan></text>
+    <g
+       id="g114098"
+       inkscape:export-filename="/home/edward/p/gingerwords.github.io/docs/logo.png"
+       inkscape:export-xdpi="271.38"
+       inkscape:export-ydpi="271.38">
+      <path
+         style="fill:none;stroke:#b83cad;stroke-width:4.852;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 310.064,210.97429 86.15279,-9.49269 -7.50631,57.98847 -33.21294,6.09404 -21.08152,16.83156 3.59732,-17.56246 -15.78216,2.31222 z"
+         id="path67960"
+         sodipodi:nodetypes="cccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:NATS;-inkscape-font-specification:NATS;white-space:pre;inline-size:38.4565;fill:#b83cad;fill-opacity:1;paint-order:markers stroke fill"
+         x="340.47427"
+         y="246.06508"
+         id="text82491"
+         transform="translate(18.919199,4.8128413)"><tspan
+           x="340.47427"
+           y="246.06508"
+           id="tspan114209">...</tspan></text>
+    </g>
+  </g>
+</svg>
