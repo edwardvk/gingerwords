@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Welcome to GingerWords!"
-date:   2023-01-07 14:55:00 +0000
-categories: 
----
-
-[[This is a blog story 1]]
