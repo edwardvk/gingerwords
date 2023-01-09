@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   [[write website description here...]]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gingerwords.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ginger_maria
+twitter_username: Ginger_Maria
 twitter_username2: HoltmanMarianne
 
 # github_username:  jekyll
