@@ -16,7 +16,10 @@
 title: GingerWords.com
 email: marianne@gingerwords.com
 description: >- # this means to ignore newlines until "baseurl:"
-  [[write website description here...]]
+   GingerWords is a small writing and editing agency with
+   a huge love of words. But definitely not all words. Only
+   those words that express precisely what needs to be
+   communicated.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gingerwords.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ginger_Maria
