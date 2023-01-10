@@ -1,6 +1,6 @@
 ---
 permalink: /write-clearly
-title: Write Clearly
+title: How to Write Clearly
 markup: kramdown
 ---
 
