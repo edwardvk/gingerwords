@@ -51,7 +51,7 @@ Communicating clearly using plain language is increasingly recognised as the mos
   * Don’t try to impress or intimidate by showing off your vast vocabulary and long, complex sentence constructions
 
     Examples of short words that work better:
-    * extra instead of additional
+    * **extra** instead of additional
     * so instead of consequently
     * if instead of in the event of 
     * before instead of prior to
