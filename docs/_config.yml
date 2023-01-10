@@ -29,7 +29,7 @@ twitter_username2: HoltmanMarianne
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: Architect
 plugins:
   - jekyll-feed
 
