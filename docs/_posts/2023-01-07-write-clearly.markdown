@@ -6,7 +6,7 @@ markup: kramdown
 
 ## using plain language
 
-### By Marianne Holtman (January 2022)
+### By Marianne Holtman
 
 #### What is plain language?
 
@@ -51,16 +51,16 @@ Communicating clearly using plain language is increasingly recognised as the mos
   * Don’t try to impress or intimidate by showing off your vast vocabulary and long, complex sentence constructions
 
     Examples of short words that work better:
-    * **extra** instead of additional
-    * so instead of consequently
-    * if instead of in the event of 
-    * before instead of prior to
-    * now instead of at this point in time
-    * try instead of endeavour
-    * must instead of is incumbent on
-    * until instead of until such time as
-    * monthly instead of on a monthly basis
-    * start instead of commence
+    * **extra** instead of **additional**
+    * **so** instead of **consequently**
+    * **if** instead of **in the event of** 
+    * **before** instead of **prior to**
+    * **now** instead of **at this point in time**
+    * **try** instead of **endeavour**
+    * **must** instead of **is incumbent on**
+    * **until** instead of **until such time as**
+    * **monthly** instead of **on a monthly basis**
+    * **start** instead of **commence**
 
    Unless it’s a legal doc, avoid these musty words:
       afore-mentioned, henceforth, hereafter, hereby, herewith, thereafter, thereof, therewith, wherein, whereof
