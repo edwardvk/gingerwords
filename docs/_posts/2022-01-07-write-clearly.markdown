@@ -1,6 +1,7 @@
 ---
 permalink: /write-clearly
 title: How to Write Clearly
+description: Communicating clearly using plain language is increasingly recognised as the most professional, responsible and efficient way to share business or government information.
 markup: kramdown
 ---
 
