@@ -13,7 +13,7 @@ markup: kramdown
 
 It is simple, unpretentious language that communicates clearly so your reader can immediately understand what you mean. 
 
-#### Why is plain language now a worldwide trend?
+#### Why is plain language now a worldwide trend??
 
 Communicating clearly using plain language is increasingly recognised as the most professional, responsible and efficient way to share business or government information.
 
