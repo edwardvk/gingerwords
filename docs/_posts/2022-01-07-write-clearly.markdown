@@ -20,7 +20,7 @@ Communicating clearly using plain language is increasingly recognised as the mos
   * It is considerate as it saves your audience’s time and prevents misunderstandings
 
 ### 1O STEPS TO SIMPLIFY AND STRENGTHEN YOUR COPY 
-> FROM HUH? TO AHA!
+> FROM **HUH?** TO ***AHA!***
 
 * THINK AND PLAN BEFORE YOU START WRITING
   * Figure out the main messages and essential info
